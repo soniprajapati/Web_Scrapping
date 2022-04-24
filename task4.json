@@ -1,0 +1,24 @@
+{
+      "movie_name": "Pinocchio",
+      "Url": "https://www.rottentomatoes.com//m/pinocchio_1940",
+      "Rating": "G",
+      "Genre": [
+            "Animation,",
+            "Kids",
+            "&",
+            "family,",
+            "Fantasy"
+      ],
+      "Language": [
+            "English"
+      ],
+      "director": [
+            "BenSharpsteen",
+            "HamiltonLuske"
+      ],
+      "Producer": [
+            "Walt",
+            "Disney"
+      ],
+      "Runtime": 87
+}
